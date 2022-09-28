@@ -1,31 +1,31 @@
 @charset "UTF-8";
 
 body {
-  background-color: linen
+  background-color: linen;
 }
 
 header {
-  color: hotpink
+  color: hotpink;
 }
 
 ul {
   font-weight: bold;
-  color: black
+  color: black;
 }
 
 a {
   text-decoration: none;
-  color: orchid
+  color: orchid;
 }
 
 p {
-  color: black
+  color: black;
 }
 
 h1 {
-  color: green
+  color: green;
 }
 
 footer {
-  font-size: 14px
+  font-size: 14px;
 }
